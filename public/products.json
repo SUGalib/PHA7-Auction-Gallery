@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "item": "Vintage Leica M3 Camera",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=80&h=80&fit=crop",
+    "currentBid": 2850,
+    "timeLeft": "2 Days left",
+    "favorited": false
+  },
+  {
+    "id": 2,
+    "item": "1965 Gibson SG Standard Electric Guitar",
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=80&h=80&fit=crop",
+    "currentBid": 3200,
+    "timeLeft": "3 Days left",
+    "favorited": false
+  },
+  {
+    "id": 3,
+    "item": "Original Apple Macintosh 128K (1984)",
+    "image": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=80&h=80&fit=crop",
+    "currentBid": 4100,
+    "timeLeft": "1 Day left",
+    "favorited": true
+  },
+  {
+    "id": 4,
+    "item": "Rolex Submariner 16610",
+    "image": "https://images.unsplash.com/photo-1548171916-c8fd5d4b1233?w=80&h=80&fit=crop",
+    "currentBid": 9500,
+    "timeLeft": "5 Days left",
+    "favorited": false
+  },
+  {
+    "id": 5,
+    "item": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=80&h=80&fit=crop",
+    "currentBid": 12000,
+    "timeLeft": "4 Days left",
+    "favorited": false
+  },
+  {
+    "id": 6,
+    "item": "Mid-Century Modern Eames Lounge Chair",
+    "image": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?w=80&h=80&fit=crop",
+    "currentBid": 6750,
+    "timeLeft": "6 Hours left",
+    "favorited": true
+  },
+  {
+    "id": 7,
+    "item": "Banksy Original Screen Print",
+    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?w=80&h=80&fit=crop",
+    "currentBid": 18500,
+    "timeLeft": "2 Days left",
+    "favorited": false
+  },
+  {
+    "id": 8,
+    "item": "NASA Apollo 11 Mission Patch (Signed)",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=80&h=80&fit=crop",
+    "currentBid": 7200,
+    "timeLeft": "3 Days left",
+    "favorited": false
+  },
+  {
+    "id": 9,
+    "item": "1950s Vintage Jukebox Wurlitzer 1015",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=80&h=80&fit=crop",
+    "currentBid": 5400,
+    "timeLeft": "7 Days left",
+    "favorited": false
+  },
+  {
+    "id": 10,
+    "item": "Signed Muhammad Ali Boxing Gloves",
+    "image": "https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?w=80&h=80&fit=crop",
+    "currentBid": 11300,
+    "timeLeft": "1 Day left",
+    "favorited": true
+  },
+  {
+    "id": 11,
+    "item": "Victorian Sterling Silver Tea Set (6-Piece)",
+    "image": "https://images.unsplash.com/photo-1563170351-be54709c5bab?w=80&h=80&fit=crop",
+    "currentBid": 3800,
+    "timeLeft": "4 Days left",
+    "favorited": false
+  },
+  {
+    "id": 12,
+    "item": "Original Star Wars (1977) Movie Poster",
+    "image": "https://images.unsplash.com/photo-1518676590629-3dcbd9c5a5c9?w=80&h=80&fit=crop",
+    "currentBid": 8900,
+    "timeLeft": "2 Days left",
+    "favorited": false
+  }
+]
